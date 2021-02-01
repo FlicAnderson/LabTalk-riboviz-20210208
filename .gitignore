@@ -19,6 +19,7 @@
 
 # RStudio files
 .Rproj.user/
+LabTalk-riboviz-20210208.Rproj
 
 # produced vignettes
 vignettes/*.html
